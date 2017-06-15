@@ -1,0 +1,33 @@
+body {
+	background: #c8deec;
+	font-family: 'Helvetica', sans-serif; 
+	font-size: 18px;
+	letter-spacing: 0.2px;
+}
+
+
+h1 {
+	font-family: 'Courier', monospace; 
+}
+
+h2 {
+color: CornFlowerBlue;
+font-family: 'Century Gothic', CenturyGothic, 'Gill Sans', sans-serif; 
+font-weight: normal;
+font-size: 30px;
+letter-spacing: -0.2px;
+}
+
+h3 {
+	color: #887;
+	font-family: 'Courier', monospace;
+	font-style: italic;
+	font-size: 18px;
+
+}
+
+a {
+	color: black;
+	font-weight: bold; 
+	text-decoration: none;
+}	
