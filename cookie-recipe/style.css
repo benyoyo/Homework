@@ -1,8 +1,10 @@
 body {
+	border: 5px solid red;
 	background: #c8deec;
 	font-family: 'Helvetica', sans-serif; 
 	font-size: 18px;
 	letter-spacing: 0.2px;
+	padding: 40px;
 }
 
 
